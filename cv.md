@@ -2,7 +2,7 @@
 ## Contacts
 * email: nikalas694@gmail.com
 ## Summary
-I work as an engineer in design institute. I’ve joined the training to change my profession and realize myself in a different direction.
+I am an design engineer at Belarusian Railways. I'v joined the training to change my current position and become a great Javascript developer.
 ## Edycation
 * Belarusian National Technical University | 2011 - 2016, Minsk
 ## English
