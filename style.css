@@ -1,0 +1,12 @@
+main{
+
+
+    text-align: center;    
+    }
+    .contacts{font-style: italic;
+    text-align: left;}
+    ul {
+        display: table;
+        margin: auto;
+      }
+      h2{text-decoration: underline;}
