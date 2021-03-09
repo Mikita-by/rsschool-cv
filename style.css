@@ -1,12 +1,21 @@
-main{
+main {
+  width: 900px;
+  margin: 0 auto;
+  ma
+}
+.contacts {
+  font-style: italic;
+  text-align: left;
+}
 
-
-    text-align: center;    
-    }
-    .contacts{font-style: italic;
-    text-align: left;}
-    ul {
-        display: table;
-        margin: auto;
-      }
-      h2{text-decoration: underline;}
+h2 {
+  text-decoration: underline;
+}
+.logo {
+  height: 100px;
+  width: 100px;}
+  .fhoto {
+    height: 300px;
+    width: 300px;
+  ;
+}
