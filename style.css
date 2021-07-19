@@ -1,7 +1,40 @@
-main {
-  width: 900px;
+body {
+ 
+  width: 1000px;
+  height: 1200px;
+  padding: 0px;
   margin: 0 auto;
-  ma
+  display: flex;
+  flex-wrap: nowrap ;
+  justify-content: center;
+  background-color: teal;
+}
+main{
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap ;
+  justify-content: center;
+
+width: 1000px;
+height: 1200px;
+left: 150px;
+top: 150px;
+  background-color: azure;
+}
+header{
+display: flex;
+flex-direction: column;
+justify-content: center;
+padding: 50px;
+
+}
+.header{
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  justify-content: center;
+
+
 }
 .contacts {
   font-style: italic;
@@ -10,6 +43,8 @@ main {
 
 h2 {
   text-decoration: underline;
+  
+ 
 }
 .logo {
   height: 100px;
@@ -18,4 +53,23 @@ h2 {
     height: 300px;
     width: 300px;
   ;
+}
+.fhoto {
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+  border-radius: 150.841px;
+  width: 182.27px;
+height: 182.27px;
+}
+footer{
+display: flex;
+flex-direction: column;
+justify-content: center;
+padding: 50px;
+
+}
+.git{
+  height: 100px;
+    width: 100px;
+    border-radius: 100px;
+
 }
